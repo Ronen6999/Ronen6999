@@ -61,7 +61,7 @@
  </br>
 
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
+<img hight="320" width="450" align="right" alt="GIF" src="https://media1.tenor.com/m/cNOBaaRPYQoAAAAC/anime-tenki-no-ko.gif">
  </p>
  
 
@@ -77,7 +77,7 @@
 
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=Ronen6999&&show_icons=true&theme=radical"/>
   </a>
   </p>
 
