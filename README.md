@@ -11,19 +11,18 @@
 
 # About ME 💬 :
 
-### - I'm 19 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
+### - I'm 17 years old Coding Enthusiast from India.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://media1.tenor.com/m/Jq0g856_9gkAAAAC/shadow-sama.gif">
 
 ### - Learning :
-- ✨ Data Structures & Algorithms
-- ✨ Generative Adversarial Networks
-
+- ✨ Full stack development
+- ✨ Data Structure and Algorithms
 ### - Hobbies : 
-- ✨ Gaming Addict
+- ✨ Video Editing
 - ✨ Watching Anime
-- ✨ Reading Light Novels
-- ✨ Badminton (Neighbourhood Professional XD)
+- ✨ Learning new skills
+- ✨ Playing Guitar
 
 </br>
 </br>
