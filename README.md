@@ -23,6 +23,9 @@
 - ✨ Watching Anime
 - ✨ Learning new skills
 - ✨ Playing Guitar
+- ✨ Solving Rubikscube
+- ✨ Calisthenics
+- ✨ Boxing
 
 </br>
 </br>
