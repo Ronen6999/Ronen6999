@@ -28,14 +28,7 @@
 - ✨ Boxing
 
 </br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
 <p>
- </br>
 
 
 <img hight="320" width="450" align="right" alt="GIF" src="https://media1.tenor.com/m/cNOBaaRPYQoAAAAC/anime-tenki-no-ko.gif">
@@ -43,12 +36,7 @@
  
 
 </br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
+
 
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
