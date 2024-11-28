@@ -16,14 +16,21 @@
 <img hight="400" width="500" alt="GIF" align="right" src="https://media1.tenor.com/m/Jq0g856_9gkAAAAC/shadow-sama.gif">
 
 ### - Learning :
-- ✨ Full stack development
+- ✨ JavaScript
+- ✨ Python
+- ✨ C
+- ✨ React
+- ✨ Sqlite/quickdb
+- ✨ Mongodb
+- ✨ Appwrite
+- ✨ Web Development
 - ✨ Data Structure and Algorithms
-### - Hobbies : 
-- ✨ Video Editing
-- ✨ Watching Anime
+### - Hobbies(other than coding) : 
+- ✨ Editing
+- ✨ Anime
 - ✨ Learning new skills
-- ✨ Playing Guitar
-- ✨ Solving Rubikscube
+- ✨ Guitar
+- ✨ Rubikscube
 - ✨ Calisthenics
 - ✨ Boxing
 
