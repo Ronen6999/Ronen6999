@@ -11,7 +11,7 @@
 
 # About ME 💬 :
 
-### - I'm 17 years old Coding Enthusiast from India.
+### - I'm 18 years old Coding Enthusiast from India.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://media1.tenor.com/m/Jq0g856_9gkAAAAC/shadow-sama.gif">
 
