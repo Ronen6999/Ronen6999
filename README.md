@@ -10,7 +10,7 @@
 
 
 <br>
-### 🛠️ Languages and Tools I Use:
+<h1>🛠️ Languages and Tools I am familiar with:</h1> 
 
 <p align="left">
   <!-- Languages -->
@@ -21,7 +21,6 @@
 
   <!-- Frontend Frameworks -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/vitejs/vitejs-icon.svg" alt="Vite" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
 
@@ -38,9 +37,18 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/stack-overflow.svg" alt="Stack Overflow" width="40" height="40"/>
+
+  <!-- Hosting & Deployment -->
+  <img src="https://seeklogo.com/images/H/hostinger-logo-AEB80F9D63-seeklogo.com.png" alt="Hostinger" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/66700583?s=200&v=4" alt="Railway" width="40" height="40"/>
+  <img src="https://brand.heroku.com/static/media/heroku-logotype-vertical.f7bab7a1.svg" alt="Heroku" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Repl.it_logo.svg" alt="Replit" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/68325644?s=200&v=4" alt="Koyeb" width="40" height="40"/>
 </p>
+
 
 
 <hr width="36%" >
