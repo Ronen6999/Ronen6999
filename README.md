@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ronen</h1>
+<h1 align="center">Yo 👋, I'm Ronen</h1>
 
 
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-🌱 I’m currently learning **WEB Development**
+I’m currently learning **WEB Development**
 <img align="right" alt="Coding" width="300" src="https://c.tenor.com/iRkL6OMGhU4AAAAC/tenor.gif">
 
 
