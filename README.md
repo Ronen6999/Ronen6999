@@ -57,8 +57,8 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 <p align="center">
-  <a href="https://github.com/Ronen6999">
-    <img src="https://streak-stats.demolab.com?user=Ronen6999&theme=dark&background=000000" alt="GitHub Streak" />
+  <a href="https://github.com/ronen6999">
+    <img src="https://streak-stats.demolab.com?user=ronen6999&theme=dark&background=000000" alt="GitHub Streak" />
   </a>
 </p>
 
