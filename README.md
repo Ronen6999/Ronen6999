@@ -56,7 +56,12 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Ronen6999&show_icons=true&theme=dark&locale=en" alt="Ronen6999" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Ronen6999&theme=dark" alt="Ronen6999" /></p>
+<p align="center">
+  <a href="https://github.com/Ronen6999">
+    <img src="https://streak-stats.demolab.com?user=Ronen6999&theme=dark&background=000000" alt="GitHub Streak" />
+  </a>
+</p>
+
 <br><br><br><br><br><br><br><br><br><br>
 <hr width="60%" >
 <br>
