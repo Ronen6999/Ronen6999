@@ -2,15 +2,6 @@
 
 <h3 align="center">💻 CS Student | Web Developer | Bot Developer</h3>
 
-###
-
-<p align="center">
-  Passionate about building websites, AI projects, WhatsApp bots, and automation tools.<br>
-  Currently exploring modern web development, backend systems, and scalable applications.
-</p>
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ronen6999&show_icons=true&theme=tokyonight" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronen6999&layout=compact&theme=tokyonight" height="150" alt="languages graph" />
@@ -18,9 +9,9 @@
 
 ###
 
-<img align="right" height="180" src="https://i.imgflip.com/65efzo.gif" />
+<img align="right" height="180" src="[https://i.imgflip.com/65efzo.gif](https://media1.tenor.com/m/ulUwa3QqhooAAAAC/kazuha-genshin-impact-kazuha-drinking.gif)" />
 
-### 🚀 Tech Stack
+### 🚀 Stack I'am Familiar with
 
 <div align="left">
 
