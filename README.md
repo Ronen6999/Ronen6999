@@ -4,7 +4,7 @@
 
 ###
 
-<img align="right" height="180" src="[https://i.imgflip.com/65efzo.gif](https://media1.tenor.com/m/ulUwa3QqhooAAAAC/kazuha-genshin-impact-kazuha-drinking.gif)" />
+<img align="right" height="180" src="https://media1.tenor.com/m/ulUwa3QqhooAAAAC/kazuha-genshin-impact-kazuha-drinking.gif" />
 
 ### 🚀 Stack I am Familiar with
 
