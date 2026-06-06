@@ -2,16 +2,11 @@
 
 <h3 align="center">💻 CS Student | Web Developer | Bot Developer</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ronen6999&show_icons=true&theme=tokyonight" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronen6999&layout=compact&theme=tokyonight" height="150" alt="languages graph" />
-</div>
-
 ###
 
 <img align="right" height="180" src="[https://i.imgflip.com/65efzo.gif](https://media1.tenor.com/m/ulUwa3QqhooAAAAC/kazuha-genshin-impact-kazuha-drinking.gif)" />
 
-### 🚀 Stack I'am Familiar with
+### 🚀 Stack I am Familiar with
 
 <div align="left">
 
