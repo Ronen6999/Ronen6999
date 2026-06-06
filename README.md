@@ -1,6 +1,6 @@
-<h1 align="center">Hey there 👋, I'm Ronen</h1>
+<h1 align="center">Yo!, I'm Ronen</h1>
 
-<h3 align="center">💻 Computer Science Student | Full-Stack Developer | Bot Developer</h3>
+<h3 align="center">💻 CS Student | Web Developer | Bot Developer</h3>
 
 ###
 
