@@ -1,4 +1,4 @@
-<h1 align="center">Yo!, I'm Ronen</h1>
+<h1 align="center">Yo! I'm Ronen</h1>
 
 <h3 align="center">💻 CS Student | Web Developer | Bot Developer</h3>
 
